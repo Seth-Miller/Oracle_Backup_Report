@@ -16,11 +16,11 @@ IS
    starttime        CHAR (5);
    endtime          CHAR (5);
    lineoutput       VARCHAR2 (100);
-   output1          VARCHAR2 (200);
-   output2          VARCHAR2 (1980);
-   output3          VARCHAR2 (980);
-   output2_1        VARCHAR2 (100);
-   output2_2        VARCHAR2 (1980);
+   output1          VARCHAR2 (2000);
+   output2          VARCHAR2 (2000);
+   output3          VARCHAR2 (2000);
+   output2_1        VARCHAR2 (2000);
+   output2_2        VARCHAR2 (2000);
 BEGIN
    DECLARE
 /*
